@@ -10,7 +10,6 @@ O projeto foi refatorado de HTML/CSS/JS puro para **React com CSS Modules**, apl
 conceitos modernos de componentização, gerenciamento de estado e boas práticas de
 desenvolvimento front-end.
 
-🔗 **Acesse o portfólio:** [giliarder1994.github.io/portfolio-react](https://giliarder1994.github.io/portfolio-react/)
 
 ---
 
