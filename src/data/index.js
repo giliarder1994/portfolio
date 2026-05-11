@@ -40,7 +40,7 @@ export const projetos = [
     linkCodigo: 'https://github.com/giliarder1994/Estoque_de_Loja_-_CRUD_de_produtos'
   },
   {
-  id: 3,
+  id: 5,
   titulo: 'API REST - Dashboard Financeiro',
   descricao: 'Backend de controle financeiro pessoal com autenticação JWT, CRUD de transações e resumo financeiro via SQL.',
   detalhes:
@@ -48,7 +48,17 @@ export const projetos = [
   imagem: './imagens/projeto API REST - Dashboard Financeiro.png',
   linkDemo: './imagens/projeto API REST - Dashboard Financeiro.png',
   linkCodigo: 'https://github.com/giliarder1994/dashboard-financeiro',
-},
+  },
+  {
+    id: 6,
+    titulo: 'API REST - Fitness Tracker',
+    descricao: 'Backend para gestão de rotinas de treino com autenticação JWT, modelagem relacional de exercícios e controle de carga.',
+    detalhes:
+    'O Fitness Tracker é uma API REST desenvolvida com Node.js, Express e MySQL para o gerenciamento personalizado de treinos e evolução física. O sistema utiliza autenticação via JWT e criptografia de senhas com bcrypt, garantindo a privacidade dos dados de cada usuário. A arquitetura foi estruturada com o padrão MVC, contando com serviços dedicados e middlewares para proteção de rotas. O banco de dados gerencia o relacionamento entre usuários, treinos e exercícios, permitindo o controle detalhado de séries, repetições e cargas (decimal) com deleção em cascata. Além do backend, o projeto inclui testes de endpoints via Postman para validação de fluxos de cadastro e gestão de treinos.',
+    imagem: './imagens/projeto API REST - fitness_tracker.jpeg',
+    linkDemo: './imagens/projeto API REST - fitness_tracker.jpeg',
+    linkCodigo: 'https://github.com/giliarder1994/Fitness_Tracker',
+  },
 ];
 
 export const skills = [
